@@ -1,0 +1,4 @@
+[Device]
+Name=Glorious Model D Wireless
+DeviceMatch=usb:258a:2023
+Driver=sinowealth
